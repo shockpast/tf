@@ -1,0 +1,22 @@
+[
+    {
+        "ids": {
+            "id": "STEAM_0:1:79656547",
+            "id3": "U:1:159313095",
+            "id32": "159313095",
+            "id64": "76561198119578823"
+        },
+        "username": "j0ey420=",
+        "cheat_type": ["pSilent Aim", "BunnyHop", "FastStop (Instant)", "AutoStrafe (Rage)"]
+    },
+    {
+        "ids": {
+            "id": "STEAM_0:1:783775546",
+            "id3": "U:1:1567551093",
+            "id32": "1567551093",
+            "id64": "76561199527816821"
+        },
+        "username": "[bkw1] Фармила",
+        "cheat_type": ["Aim (Derpy)"]
+    }
+]
