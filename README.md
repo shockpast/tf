@@ -1,4 +1,6 @@
 # tf
+[![Discord](https://img.shields.io/discord/1161370736863236217)](https://discord.gg/5AjxhksXsf) 
+
 List of [Cheaters](https://en.wikipedia.org/wiki/Cheating) in Team Fortress 2, that are actually curated by [community](https://github.com/shockpast/tf/graphs/contributors) using [Pull Requests](https://github.com/shockpast/tf/pulls) in this repository.
 
 [tf](https://github.com/shockpast/tf) can be used as API for bots or websites, that are utilizes **.json** files *(json/cheaters.json)* for extracting data.
