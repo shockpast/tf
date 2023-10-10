@@ -1,1 +1,2 @@
-[![Astro Build](https://github.com/shockpast/tf.shckpst.ru/actions/workflows/deploy.yml/badge.svg)](https://github.com/shockpast/tf.shckpst.ru/actions/workflows/deploy.yml) &nbsp; [![Astro Deploy](https://github.com/shockpast/tf.shckpst.ru/actions/workflows/deploy.yml/badge.svg)](https://github.com/shockpast/tf.shckpst.ru/actions/workflows/deploy.yml)
+# tf.shckpst.ru
+[![Astro Pages](https://github.com/shockpast/tf.shckpst.ru/actions/workflows/deploy.yml/badge.svg)](https://github.com/shockpast/tf.shckpst.ru/actions/workflows/deploy.yml)
