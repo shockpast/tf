@@ -4,7 +4,7 @@ List of [Cheaters](https://en.wikipedia.org/wiki/Cheating) in Team Fortress 2, t
 [tf](https://github.com/shockpast/tf) can be used as API for bots or websites, that are utilizes **.json** files *(json/cheaters.json)* for extracting data.
 
 # Data.
-**md** doesn't have is simplified version of **JSON**, it doesn't show **SteamID3** and **SteamID64**, aswell as types of cheats, that player used in report.
+**md** is simplified version of **JSON**, it doesn't show **SteamID3** and **SteamID64**, aswell as types of cheats, that player used in report.
 
 If you prefer to have more information about user, you might wanna see **json/cheaters.json**, otherwise see **md/cheaters.json**
 
