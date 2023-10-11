@@ -20,7 +20,7 @@ List of [Cheaters](https://en.wikipedia.org/wiki/Cheating) in Team Fortress 2, t
     // I'm not sure that description is actually needed for this, we'll figure it out later.
     // "description": "",
     "video": "https://youtu.be/XXXXXXXXXXXX"
-    "cheat_type": ["pSilent Aim", "BunnyHop", "ESP"]
+    "accusation": ["pSilent Aim", "BunnyHop", "ESP"]
 }
 ```
 
@@ -34,6 +34,7 @@ List of [Cheaters](https://en.wikipedia.org/wiki/Cheating) in Team Fortress 2, t
         "id64": 76561199090831696
     },
     "username": "shockpast",
+    "video": "https://youtu.be/XXXXXXXXXXXX",
     "accusation": "Votekick(s) for no reason, high toxicity."
 }
 ```
