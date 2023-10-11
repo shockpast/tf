@@ -27,5 +27,20 @@
         "cheat_type": [
             "Aim (Derpy)"
         ]
+    },
+    {
+        "ids": {
+            "id": "STEAM_1:0:521086450",
+            "id3": "[U:1:1042172900]",
+            "id32": 1042172900,
+            "id64": "76561199002438628"
+        },
+        "username": "nowa",
+        "video": "-",
+        "accusations": [
+            "BunnyHop",
+            "Auto-Vaccinator",
+            "AutoKick"
+        ]
     }
 ]
