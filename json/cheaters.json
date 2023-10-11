@@ -27,20 +27,5 @@
         "cheat_type": [
             "Aim (Derpy)"
         ]
-    },
-    {
-        "ids": {
-            "id": "STEAM_0:0:565282984",
-            "id3": "[U:1:1130565968]",
-            "id32": 1130565968,
-            "id64": "76561199090831696"
-        },
-        "username": "shockpast",
-        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "accusations": [
-            "pSilent",
-            "BunnyHop",
-            "FastStop"
-        ]
     }
 ]
