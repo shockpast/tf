@@ -19,6 +19,7 @@ List of [Cheaters](https://en.wikipedia.org/wiki/Cheating) in Team Fortress 2, t
     "username": "shockpast",
     // I'm not sure that description is actually needed for this, we'll figure it out later.
     // "description": "",
+    "video": "https://youtu.be/XXXXXXXXXXXX"
     "cheat_type": ["pSilent Aim", "BunnyHop", "ESP"]
 }
 ```
