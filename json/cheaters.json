@@ -42,5 +42,19 @@
             "Auto-Vaccinator",
             "AutoKick"
         ]
+    },
+    {
+        "ids": {
+            "id": "STEAM_1:0:147748967",
+            "id3": "[U:1:295497934]",
+            "id32": 295497934,
+            "id64": "76561198255763662"
+        },
+        "username": "the janitor",
+        "video": "-",
+        "accusations": [
+            "AntiAim (Rage)",
+            "pSilent"
+        ]
     }
 ]
