@@ -56,5 +56,18 @@
             "AntiAim (Rage)",
             "pSilent"
         ]
+    },
+    {
+        "ids": {
+            "id": "STEAM_1:1:30533567",
+            "id3": "[U:1:61067135]",
+            "id32": 61067135,
+            "id64": "76561198021332863"
+        },
+        "username": "sztacheta lucek",
+        "video": "-",
+        "accusations": [
+            "pSilent (snapping) with ~2-5 fov"
+        ]
     }
 ]
