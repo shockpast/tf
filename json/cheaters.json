@@ -128,5 +128,19 @@
             "pSilent",
             "BunnyHop"
         ]
+    },
+    {
+        "ids": {
+            "id": "STEAM_0:1:575742072",
+            "id3": "[U:1:1151484145]",
+            "id32": 1151484145,
+            "id64": "76561199111749873"
+        },
+        "username": "Vamp (Spooky Edition)",
+        "video": "https://youtu.be/SupT2F63TfI",
+        "accusations": [
+            "pSilent",
+            "AntiAim"
+        ]
     }
 ]
