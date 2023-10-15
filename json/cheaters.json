@@ -81,7 +81,7 @@
         "video": "ask shockpast for a video",
         "accusations": [
             "AutoStrafe (Rage)",
-            " Anti-Backstab (looking down/up)"
+            "Anti-Backstab (looking down/up)"
         ]
     },
     {
@@ -92,12 +92,12 @@
             "id64": "76561199349421032"
         },
         "username": "Bababoey",
-        "video": "ask shockpast for a video",
+        "video": "https://youtu.be/s9xiUOUdRbA",
         "accusations": [
             "pSilent",
-            " AntiAim",
-            " ESP",
-            " Botting (2+1)"
+            "AntiAim",
+            "ESP",
+            "Botting (2+1)"
         ]
     }
 ]
