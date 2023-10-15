@@ -114,5 +114,19 @@
             "ESP",
             "AutoStrafe"
         ]
+    },
+    {
+        "ids": {
+            "id": "STEAM_1:1:783617122",
+            "id3": "[U:1:1567234245]",
+            "id32": 1567234245,
+            "id64": "76561199527499973"
+        },
+        "username": "Пон",
+        "video": "-",
+        "accusations": [
+            "pSilent",
+            "BunnyHop"
+        ]
     }
 ]
