@@ -69,5 +69,19 @@
         "accusations": [
             "pSilent (snapping) with ~2-5 fov"
         ]
+    },
+    {
+        "ids": {
+            "id": "STEAM_0:0:68194546",
+            "id3": "[U:1:136389092]",
+            "id32": 136389092,
+            "id64": "76561198096654820"
+        },
+        "username": "Hippy Hoppy ひ",
+        "video": "ask shockpast for a video",
+        "accusations": [
+            "AutoStrafe (Rage)",
+            " Anti-Backstab (looking down/up)"
+        ]
     }
 ]
