@@ -99,5 +99,20 @@
             "ESP",
             "Botting (2+1)"
         ]
+    },
+    {
+        "ids": {
+            "id": "STEAM_1:1:19484530",
+            "id3": "[U:1:38969061]",
+            "id32": 38969061,
+            "id64": "76561197999234789"
+        },
+        "username": "team fortress 2",
+        "video": "https://clips.twitch.tv/AgreeableCourteousBeeCoolStoryBob-Ogq6CYeS-2kDrjpK",
+        "accusations": [
+            "Plain Aim",
+            "ESP",
+            "AutoStrafe"
+        ]
     }
 ]
