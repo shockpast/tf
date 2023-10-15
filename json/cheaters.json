@@ -83,5 +83,21 @@
             "AutoStrafe (Rage)",
             " Anti-Backstab (looking down/up)"
         ]
+    },
+    {
+        "ids": {
+            "id": "STEAM_0:0:694577652",
+            "id3": "[U:1:1389155304]",
+            "id32": 1389155304,
+            "id64": "76561199349421032"
+        },
+        "username": "Bababoey",
+        "video": "ask shockpast for a video",
+        "accusations": [
+            "pSilent",
+            " AntiAim",
+            " ESP",
+            " Botting (2+1)"
+        ]
     }
 ]
