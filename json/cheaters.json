@@ -142,5 +142,18 @@
             "pSilent",
             "AntiAim"
         ]
+    },
+    {
+        "ids": {
+            "id": "STEAM_0:1:225888068",
+            "id3": "[U:1:451776137]",
+            "id32": 451776137,
+            "id64": "76561198412041865"
+        },
+        "username": "leave me",
+        "video": "-",
+        "accusations": [
+            "Soft Aim"
+        ]
     }
 ]
