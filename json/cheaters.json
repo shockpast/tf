@@ -155,5 +155,21 @@
         "accusations": [
             "Soft Aim"
         ]
+    },
+    {
+        "ids": {
+            "id": "STEAM_1:0:718092233",
+            "id3": "[U:1:1436184466]",
+            "id32": 1436184466,
+            "id64": "76561199396450194"
+        },
+        "username": "Лаки",
+        "video": "https://youtu.be/XV1dq_W0t68",
+        "accusations": [
+            "Plain Aim (snapping",
+            "360fov)",
+            "BunnyHop",
+            "ESP"
+        ]
     }
 ]
